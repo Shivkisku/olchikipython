@@ -1,5 +1,5 @@
 # olchikipython
 
-''' python
+``` python
 
 olchikipython filename
