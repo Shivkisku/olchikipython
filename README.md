@@ -1,13 +1,12 @@
 # olchikipython
 
-install pack
+## install pack
 
 
 pip install olchikipython
         or
 pip install olchikipython --user
 
-run
+# run
 ```python
-olchikipython filename
-
+olchikipython yourfilename
